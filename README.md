@@ -4,11 +4,15 @@ This Jupyter Notebook demonstrates the process of time series analysis using the
 
 ## Dependencies
 Python 3.x
-Jupyter Notebook
+
 pandas
+
 numpy
+
 matplotlib
+
 statsmodels
+
 scikit-learn
 
 ## Analysis Steps
