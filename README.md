@@ -1,5 +1,5 @@
 # Gold-Prices-Time-Series
-### Overview
+## Overview
 This Jupyter Notebook demonstrates the process of time series analysis using the Autoregressive Integrated Moving Average (ARIMA) model. The analysis focuses on forecasting gold prices based on historical monthly data.
 
 ## Dependencies
